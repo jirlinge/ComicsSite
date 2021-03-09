@@ -58,14 +58,7 @@ color:rgb(79, 249, 255);
 {
     text-decoration: none;
 }
-/*animation logo*/
-.anim {
-    width: 100px;
-    height: 100px;
-    position: relative;
-    animation: mymove 2s;
-    animation-timing-function:linear;
-}
+
 
 @keyframes mymove {
     from {left: 0px;}
